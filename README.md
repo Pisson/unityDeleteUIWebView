@@ -1,5 +1,6 @@
 # unityDeleteUIWebView
 
+因为UIWebView存在于.a静态库里面，所有次脚本是在逆向后将里面的UIWebView去掉，然后重新生成.a替换原来的.a，具体使用步骤如下：
 
 第一步：在工程找到libiPhone-lib.a所在文件夹路径
 
