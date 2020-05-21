@@ -5,7 +5,7 @@
 
 第二步：拷贝unityDeleteUIWebView内所有文件到此路径，并打开终端定位到该路径
 
-cd Libraries
+例如：cd Libraries
 
 第三步：终端开启文件权限
 
